@@ -1,5 +1,5 @@
 {
-    "name": "shima-freebz/BarCodeQR",
+    "name": "shima-freebz/barcode-qr",
     "description": "BarCodeQR plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
