@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BarCodeQR plugin for CakePHP
 
 ## Installation
@@ -9,3 +10,7 @@ The recommended way to install composer packages is:
 ```
 composer require your-name-here/BarCodeQR
 ```
+=======
+# BarcodeQR
+generate QRcoder and Barcode 
+>>>>>>> 2418ff12b4639585824d6eceac5a23e4515a5ef8
