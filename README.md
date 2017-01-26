@@ -1,4 +1,3 @@
-D
 # BarCodeQR plugin for CakePHP
 
 ## Installation
