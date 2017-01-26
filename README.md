@@ -12,5 +12,4 @@ composer require shima-freebz/BarCodeQR
 ```
 =======
 # BarcodeQR
-generate QRcoder and Barcode 
-8
+QRcoder and Barcode generater for CakePHP
